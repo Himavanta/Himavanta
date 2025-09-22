@@ -1,6 +1,6 @@
 # Hi, I'm Himavanta 👋
 
-前端开发者，专注于 Web 应用与体验优化。近期主要使用 Vue、JavaScript，并在 Vercel 上进行项目部署与迭代。
+前端开发者，专注于 Web 应用与体验优化。近期主要使用 Vue、JavaScript。
 
 - 技术与工具：Vue、JavaScript、HTML/CSS
 - 个人主页/博客：[unsun.cc](https://www.unsun.cc)
