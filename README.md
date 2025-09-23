@@ -16,6 +16,7 @@
 
 ### 📫 联系我
 
+- 邮箱：Himavanta@foxmail.com
 - 博客：[unsun.cc](https://www.unsun.cc)
 - GitHub：[Himavanta](https://github.com/Himavanta)
 
