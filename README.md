@@ -14,9 +14,7 @@
 
 ### 📫 联系我
 
-如需合作或交流，欢迎提交 [Issue](https://github.com/Himavanta/Himavanta/issues) 或发邮件至  
-[Himavanta@foxmail.com](mailto:Himavanta@foxmail.com)
+如需合作或交流，欢迎提交 [Issue](https://github.com/Himavanta/Himavanta/issues) 或发邮件至 [Himavanta@foxmail.com](mailto:Himavanta@foxmail.com)
 
----
 
 ⭐️ 如果你喜欢这些项目或内容，欢迎点亮 Star 与关注，这将是我持续创作的动力。
