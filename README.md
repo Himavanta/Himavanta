@@ -18,3 +18,6 @@
 
 
 ⭐️ 如果你喜欢这些项目或内容，欢迎点亮 Star 与关注，这将是我持续创作的动力。
+
+
+![](https://www.unsun.cc/cards/sicmu-auto.svg)
